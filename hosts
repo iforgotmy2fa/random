@@ -1,5 +1,8 @@
 # Hosts file for blocking ads on spotify Windows/Android. Super effective.
 
+127.0.0.1 www.facebook.com
+127.0.0.1 facebook.com
+
 
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adeventtracker.spotify.com
